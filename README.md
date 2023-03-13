@@ -4,4 +4,5 @@
 3. Reverse Equilateral Triangle
 4. Right angle
 5. Reverse Right angle
+6. Mirror Right angle
 
