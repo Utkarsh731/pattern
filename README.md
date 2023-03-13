@@ -2,4 +2,5 @@
 1. Diamond of Stars
 2. Equilateral Triangle
 3. Reverse Equilateral Triangle
+4. Right angle
 
