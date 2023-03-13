@@ -1,2 +1,2 @@
-# Creating Patterns Using Python
+# Creating Patterns of Triangle Using Python
 
